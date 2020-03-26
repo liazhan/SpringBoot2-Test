@@ -1,0 +1,327 @@
+2020-03-15 16:23:11.247  INFO 6192 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 6192 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:23:11.250  INFO 6192 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:23:12.321  INFO 6192 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:23:12.331  INFO 6192 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:23:12.331  INFO 6192 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:23:12.416  INFO 6192 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:23:12.417 DEBUG 6192 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:23:12.417  INFO 6192 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1062 ms
+2020-03-15 16:23:12.656  INFO 6192 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:23:12.676 DEBUG 6192 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:23:12.722 DEBUG 6192 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:23:12.750 DEBUG 6192 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:23:12.758 DEBUG 6192 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:23:12.854  INFO 6192 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:23:12.858  INFO 6192 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 2.55 seconds (JVM running for 4.069)
+2020-03-15 16:24:26.887  INFO 6368 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 6368 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:24:26.891  INFO 6368 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:24:28.021  INFO 6368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:24:28.031  INFO 6368 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:24:28.031  INFO 6368 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:24:28.124  INFO 6368 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:24:28.124 DEBUG 6368 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:24:28.124  INFO 6368 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1166 ms
+2020-03-15 16:24:28.318  INFO 6368 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:24:28.333 DEBUG 6368 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:24:28.385 DEBUG 6368 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:24:28.407 DEBUG 6368 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:24:28.415 DEBUG 6368 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:24:28.480  INFO 6368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:24:28.484  INFO 6368 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 2.781 seconds (JVM running for 4.271)
+2020-03-15 16:24:42.412  INFO 6368 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:24:42.412  INFO 6368 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:24:42.412 DEBUG 6368 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:24:42.420 DEBUG 6368 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:24:42.420  INFO 6368 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-03-15 16:24:42.429 DEBUG 6368 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:24:42.437 DEBUG 6368 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:24:42.457 DEBUG 6368 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:24:42.457 DEBUG 6368 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:24:42.465 DEBUG 6368 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:25:52.788  INFO 4940 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 4940 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:25:52.792  INFO 4940 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:25:54.079  INFO 4940 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:25:54.089  INFO 4940 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:25:54.089  INFO 4940 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:25:54.230  INFO 4940 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:25:54.231 DEBUG 4940 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:25:54.231  INFO 4940 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1279 ms
+2020-03-15 16:25:54.521  INFO 4940 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:25:54.533 DEBUG 4940 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:25:54.590 DEBUG 4940 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:25:54.616 DEBUG 4940 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:25:54.624 DEBUG 4940 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:25:54.705  INFO 4940 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:25:54.709  INFO 4940 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 3.008 seconds (JVM running for 4.546)
+2020-03-15 16:26:08.223  INFO 4940 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:26:08.223  INFO 4940 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:26:08.223 DEBUG 4940 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:26:08.230 DEBUG 4940 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:26:08.230  INFO 4940 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-03-15 16:26:08.241 DEBUG 4940 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:26:08.248 DEBUG 4940 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:26:08.267 DEBUG 4940 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:26:08.268 DEBUG 4940 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:26:08.276 DEBUG 4940 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:26:35.727  INFO 8448 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 8448 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:26:35.731  INFO 8448 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:26:37.438  INFO 8448 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:26:37.450  INFO 8448 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:26:37.450  INFO 8448 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:26:37.557  INFO 8448 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:26:37.557 DEBUG 8448 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:26:37.557  INFO 8448 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1740 ms
+2020-03-15 16:26:37.784  INFO 8448 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:26:37.802 DEBUG 8448 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:26:37.862 DEBUG 8448 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:26:37.890 DEBUG 8448 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:26:37.901 DEBUG 8448 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:26:38.002  INFO 8448 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:26:38.007  INFO 8448 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 2.961 seconds (JVM running for 4.542)
+2020-03-15 16:26:43.034  INFO 8448 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:26:43.035  INFO 8448 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:26:43.035 DEBUG 8448 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:26:43.041 DEBUG 8448 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:26:43.041  INFO 8448 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-03-15 16:26:43.058 DEBUG 8448 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:26:43.070 DEBUG 8448 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:26:43.089  INFO 8448 --- [http-nio-8081-exec-1] c.e.s.SpringbootTest01Application        : 执行index方法！！！！！！！！！！！
+2020-03-15 16:26:43.100 DEBUG 8448 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:26:43.101 DEBUG 8448 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:26:43.109 DEBUG 8448 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:27:05.348  INFO 2592 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 2592 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:27:05.351  INFO 2592 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:27:07.158  INFO 2592 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:27:07.168  INFO 2592 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:27:07.168  INFO 2592 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:27:07.277  INFO 2592 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:27:07.277  INFO 2592 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1812 ms
+2020-03-15 16:27:07.619  INFO 2592 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:27:07.811  INFO 2592 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:27:07.815  INFO 2592 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 3.723 seconds (JVM running for 5.347)
+2020-03-15 16:27:19.739  INFO 2592 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:27:19.740  INFO 2592 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:27:19.745  INFO 2592 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-03-15 16:27:19.770  INFO 2592 --- [http-nio-8081-exec-1] c.e.s.SpringbootTest01Application        : 执行index方法！！！！！！！！！！！
+2020-03-15 16:27:23.931  INFO 2592 --- [http-nio-8081-exec-2] c.e.s.SpringbootTest01Application        : 执行index方法！！！！！！！！！！！
+2020-03-15 16:28:27.121  INFO 9860 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 9860 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:28:27.128  INFO 9860 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:28:28.357  INFO 9860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:28:28.370  INFO 9860 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:28:28.370  INFO 9860 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:28:28.476  INFO 9860 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:28:28.477 DEBUG 9860 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:28:28.477  INFO 9860 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1262 ms
+2020-03-15 16:28:28.681  INFO 9860 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:28:28.691 DEBUG 9860 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:28:28.736 TRACE 9860 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 
+	c.e.s.SpringbootTest01Application:
+	{ /, produces [text/plain;charset=UTF-8]}: index()
+2020-03-15 16:28:28.740 TRACE 9860 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ /error}: error(HttpServletRequest)
+	{ /error, produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2020-03-15 16:28:28.743 DEBUG 9860 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:28:28.754 DEBUG 9860 --- [main] o.s.w.s.h.BeanNameUrlHandlerMapping      : Detected 0 mappings in 'beanNameHandlerMapping'
+2020-03-15 16:28:28.770 TRACE 9860 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped [/webjars/**] onto ResourceHttpRequestHandler ["classpath:/META-INF/resources/webjars/"]
+2020-03-15 16:28:28.770 TRACE 9860 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped [/**] onto ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2020-03-15 16:28:28.770 DEBUG 9860 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:28:28.778 DEBUG 9860 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:28:28.857  INFO 9860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:28:28.862  INFO 9860 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 2.879 seconds (JVM running for 4.562)
+2020-03-15 16:28:51.518  INFO 9860 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:28:51.519  INFO 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:28:51.519 TRACE 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.multipart.support.StandardServletMultipartResolver@6e72bb24
+2020-03-15 16:28:51.520 TRACE 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : No LocaleResolver 'localeResolver': using default [AcceptHeaderLocaleResolver]
+2020-03-15 16:28:51.521 TRACE 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : No ThemeResolver 'themeResolver': using default [FixedThemeResolver]
+2020-03-15 16:28:51.523 TRACE 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : No RequestToViewNameTranslator 'viewNameTranslator': using default [DefaultRequestToViewNameTranslator]
+2020-03-15 16:28:51.526 TRACE 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : No FlashMapManager 'flashMapManager': using default [SessionFlashMapManager]
+2020-03-15 16:28:51.526 DEBUG 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:28:51.526  INFO 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-03-15 16:28:51.536 TRACE 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}, headers={masked} in DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:28:51.543 TRACE 9860 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:28:51.555 TRACE 9860 --- [http-nio-8081-exec-1] .w.s.m.m.a.ServletInvocableHandlerMethod : Arguments: []
+2020-03-15 16:28:51.566 DEBUG 9860 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:28:51.567 TRACE 9860 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:28:51.576 TRACE 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : No view rendering, null ModelAndView returned.
+2020-03-15 16:28:51.576 DEBUG 9860 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK, headers={masked}
+2020-03-15 16:29:25.563  INFO 5216 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 5216 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:29:25.566  INFO 5216 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:29:26.947  INFO 5216 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:29:26.958  INFO 5216 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:29:26.959  INFO 5216 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:29:27.045  INFO 5216 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:29:27.046 DEBUG 5216 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:29:27.046  INFO 5216 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1212 ms
+2020-03-15 16:29:27.232  INFO 5216 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:29:27.242 DEBUG 5216 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:29:27.291 DEBUG 5216 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:29:27.315 DEBUG 5216 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:29:27.323 DEBUG 5216 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:29:27.402  INFO 5216 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:29:27.406  INFO 5216 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 2.901 seconds (JVM running for 4.318)
+2020-03-15 16:29:37.988  INFO 5216 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:29:37.988  INFO 5216 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:29:37.989 DEBUG 5216 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:29:37.995 DEBUG 5216 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:29:37.995  INFO 5216 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-03-15 16:29:38.005 DEBUG 5216 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:29:38.011 DEBUG 5216 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:29:38.033 DEBUG 5216 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:29:38.033 DEBUG 5216 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:29:38.043 DEBUG 5216 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:30:11.713  INFO 9496 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 9496 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:30:11.718  INFO 9496 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:30:13.216  INFO 9496 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:30:13.237  INFO 9496 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:30:13.237  INFO 9496 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:30:13.352  INFO 9496 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:30:13.353 DEBUG 9496 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:30:13.353  INFO 9496 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1529 ms
+2020-03-15 16:30:13.615  INFO 9496 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:30:13.629 DEBUG 9496 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:30:13.688 DEBUG 9496 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:30:13.716 DEBUG 9496 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:30:13.725 DEBUG 9496 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:30:13.816  INFO 9496 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:30:13.822  INFO 9496 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 2.827 seconds (JVM running for 6.817)
+2020-03-15 16:30:20.290  INFO 9496 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:30:20.302  INFO 9496 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:30:20.302 DEBUG 9496 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:30:20.310 DEBUG 9496 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:30:20.311  INFO 9496 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2020-03-15 16:30:20.325 DEBUG 9496 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:30:20.336 DEBUG 9496 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:30:20.368 DEBUG 9496 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:30:20.369 DEBUG 9496 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:30:20.380 DEBUG 9496 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:32:44.180  INFO 9740 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 9740 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:32:44.183  INFO 9740 --- [main] c.e.s.SpringbootTest01Application        : No active profile set, falling back to default profiles: default
+2020-03-15 16:32:45.690  INFO 9740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:32:45.703  INFO 9740 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:32:45.703  INFO 9740 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:32:45.844  INFO 9740 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:32:45.844 DEBUG 9740 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:32:45.844  INFO 9740 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1543 ms
+2020-03-15 16:32:46.348  INFO 9740 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:32:46.363 DEBUG 9740 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:32:46.430 DEBUG 9740 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:32:46.457 DEBUG 9740 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:32:46.469 DEBUG 9740 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:32:46.557  INFO 9740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:32:46.937  INFO 9740 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 3.305 seconds (JVM running for 5.46)
+2020-03-15 16:32:49.831  INFO 9740 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:32:49.832  INFO 9740 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:32:49.832 DEBUG 9740 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:32:49.841 DEBUG 9740 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:32:49.841  INFO 9740 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2020-03-15 16:32:49.853 DEBUG 9740 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:32:49.867 DEBUG 9740 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:32:49.874  INFO 9740 --- [http-nio-8081-exec-1] c.e.s.SpringbootTest01Application        : 执行index方法！！！！！！！！！！！
+2020-03-15 16:32:49.887 DEBUG 9740 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:32:49.887 DEBUG 9740 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:32:49.900 DEBUG 9740 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:40:10.857  INFO 9956 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 9956 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:40:11.069  INFO 9956 --- [main] c.e.s.SpringbootTest01Application        : The following profiles are active: dev
+2020-03-15 16:40:12.221  INFO 9956 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-15 16:40:12.236  INFO 9956 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:40:12.237  INFO 9956 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:40:12.351  INFO 9956 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:40:12.351 DEBUG 9956 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:40:12.351  INFO 9956 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1193 ms
+2020-03-15 16:40:12.650  INFO 9956 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:40:12.660 DEBUG 9956 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:40:12.715 DEBUG 9956 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:40:12.746 DEBUG 9956 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:40:12.758 DEBUG 9956 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:40:12.848  INFO 9956 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/helloboot'
+2020-03-15 16:40:12.852  INFO 9956 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 3.053 seconds (JVM running for 4.47)
+2020-03-15 16:40:27.174  INFO 9956 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:40:27.186  INFO 9956 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:40:27.187 DEBUG 9956 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:40:27.201 DEBUG 9956 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:40:27.203  INFO 9956 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2020-03-15 16:40:27.213 DEBUG 9956 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:40:27.220 DEBUG 9956 --- [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:40:27.231  INFO 9956 --- [http-nio-8080-exec-2] c.e.s.SpringbootTest01Application        : 执行index方法！！！！！！！！！！！
+2020-03-15 16:40:27.244 DEBUG 9956 --- [http-nio-8080-exec-2] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:40:27.244 DEBUG 9956 --- [http-nio-8080-exec-2] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:40:27.253 DEBUG 9956 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:40:41.115  INFO 4808 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 4808 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:40:41.118  INFO 4808 --- [main] c.e.s.SpringbootTest01Application        : The following profiles are active: prod
+2020-03-15 16:40:42.359  INFO 4808 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:40:42.372  INFO 4808 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:40:42.372  INFO 4808 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:40:42.477  INFO 4808 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:40:42.478 DEBUG 4808 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:40:42.478  INFO 4808 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1262 ms
+2020-03-15 16:40:42.718  INFO 4808 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:40:42.733 DEBUG 4808 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:40:42.799 DEBUG 4808 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:40:42.838 DEBUG 4808 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:40:42.848 DEBUG 4808 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:40:42.926  INFO 4808 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:40:42.930  INFO 4808 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 3.107 seconds (JVM running for 4.954)
+2020-03-15 16:42:00.317  INFO 4808 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:42:00.318  INFO 4808 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:42:00.318 DEBUG 4808 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:42:00.327 DEBUG 4808 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:42:00.329  INFO 4808 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2020-03-15 16:42:00.349 DEBUG 4808 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:42:00.360 DEBUG 4808 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:42:00.373  INFO 4808 --- [http-nio-8081-exec-1] c.e.s.SpringbootTest01Application        : 执行index方法！！！！！！！！！！！
+2020-03-15 16:42:00.397 DEBUG 4808 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:42:00.398 DEBUG 4808 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:42:00.407 DEBUG 4808 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:43:34.552  INFO 9688 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 9688 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:43:34.563  INFO 9688 --- [main] c.e.s.SpringbootTest01Application        : The following profiles are active: dev
+2020-03-15 16:43:36.292  INFO 9688 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-15 16:43:36.303  INFO 9688 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:43:36.304  INFO 9688 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:43:36.400  INFO 9688 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:43:36.400 DEBUG 9688 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:43:36.401  INFO 9688 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1704 ms
+2020-03-15 16:43:36.596  INFO 9688 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:43:36.613 DEBUG 9688 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:43:36.663 DEBUG 9688 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:43:36.686 DEBUG 9688 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:43:36.693 DEBUG 9688 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:43:36.771  INFO 9688 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/helloboot'
+2020-03-15 16:43:36.774  INFO 9688 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 3.108 seconds (JVM running for 4.471)
+2020-03-15 16:44:01.417  INFO 9688 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:44:01.418  INFO 9688 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:44:01.418 DEBUG 9688 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:44:01.428 DEBUG 9688 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:44:01.428  INFO 9688 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2020-03-15 16:44:01.441 DEBUG 9688 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:44:01.449 DEBUG 9688 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:44:01.459  INFO 9688 --- [http-nio-8080-exec-1] c.e.s.SpringbootTest01Application        : 执行index方法！！！！！！！！！！！
+2020-03-15 16:44:01.469 DEBUG 9688 --- [http-nio-8080-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:44:01.470 DEBUG 9688 --- [http-nio-8080-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:44:01.478 DEBUG 9688 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-03-15 16:44:27.666  INFO 7228 --- [main] c.e.s.SpringbootTest01Application        : Starting SpringbootTest01Application on baiboshi with PID 7228 (E:\testcloud\SPRINGBOOT-TEST01\target\classes started by Administrator in E:\testcloud\SPRINGBOOT-TEST01)
+2020-03-15 16:44:27.669  INFO 7228 --- [main] c.e.s.SpringbootTest01Application        : The following profiles are active: prod
+2020-03-15 16:44:29.035  INFO 7228 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-03-15 16:44:29.050  INFO 7228 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 16:44:29.050  INFO 7228 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-15 16:44:29.155  INFO 7228 --- [main] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring embedded WebApplicationContext
+2020-03-15 16:44:29.155 DEBUG 7228 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-03-15 16:44:29.155  INFO 7228 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1380 ms
+2020-03-15 16:44:29.393  INFO 7228 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 16:44:29.408 DEBUG 7228 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-03-15 16:44:29.461 DEBUG 7228 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2020-03-15 16:44:29.488 DEBUG 7228 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-03-15 16:44:29.497 DEBUG 7228 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-03-15 16:44:29.565  INFO 7228 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/helloboot'
+2020-03-15 16:44:29.569  INFO 7228 --- [main] c.e.s.SpringbootTest01Application        : Started SpringbootTest01Application in 3.205 seconds (JVM running for 4.647)
+2020-03-15 16:44:31.765  INFO 7228 --- [http-nio-8081-exec-1] o.a.c.c.C.[.[localhost].[/helloboot]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-15 16:44:31.765  INFO 7228 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-15 16:44:31.766 DEBUG 7228 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2020-03-15 16:44:31.773 DEBUG 7228 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2020-03-15 16:44:31.773  INFO 7228 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-03-15 16:44:31.786 DEBUG 7228 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/helloboot/", parameters={}
+2020-03-15 16:44:31.796 DEBUG 7228 --- [http-nio-8081-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.example.springboottest01.SpringbootTest01Application#index()
+2020-03-15 16:44:31.804  INFO 7228 --- [http-nio-8081-exec-1] c.e.s.SpringbootTest01Application        : 执行index方法！！！！！！！！！！！
+2020-03-15 16:44:31.815 DEBUG 7228 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Using 'text/plain;charset=UTF-8;q=0.8', given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8] and supported [text/plain;charset=UTF-8]
+2020-03-15 16:44:31.816 DEBUG 7228 --- [http-nio-8081-exec-1] m.m.a.RequestResponseBodyMethodProcessor : Writing ["Hello Spring Boot! The BookName is 红楼梦;and Book Author is 曹雪芹;and Book PinYin is 28"]
+2020-03-15 16:44:31.823 DEBUG 7228 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
